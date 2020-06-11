@@ -1,0 +1,25 @@
+.searchHeading {
+  font-size: 20px;
+  font-weight: 700;
+  color: gray;
+
+  text-align: center;
+}
+.ant-tabs-tab-active {
+  color: gray !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+}
+
+.searchContainer {
+  padding: 0 15rem 0 15rem;
+}
+.SearchBarInput {
+  border-radius: 50px !important;
+  border: 1px solid #cecece !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
+  padding: 12px 24px !important;
+  color: #a19e9e !important;
+  font-weight: 700 !important;
+}
